@@ -1,12 +1,17 @@
-## Hi there 👋
+## Hi there, welcome to REINTE 👋
 
-<!--
+> _Research_ _Innovation_ _&_ _Technology_ CLUB
 
-**Here are some ideas to get you started:**
+![UTMACH](../images/bgutmach.jpg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌐 [Web page](https://reinte.github.io/landing-page/)
+📷 [Instagram](https://www.instagram.com/reinte_utmach/)
+
+### Collaborators
+
+<div>
+    <img src='../images/gdgmachala.png' width='100'>
+    <img src='../images/ti.png' width='100'>
+    <img src='../images/mlsa.png' width='100'>
+    <img src='../images/utmach.png' width='100'>
+</div>
